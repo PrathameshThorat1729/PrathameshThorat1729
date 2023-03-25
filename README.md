@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrathameshThorat1729
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web and small Games Development
-- 💞️ I’m looking to collaborate on Nothing at right now
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Basics of Computers and Programming
+- 💞️ I’m looking to collaborate C and C++ Programming
 - 📫 How to reach me thoratprathamesh1729@gmail.com
 
 <!---
